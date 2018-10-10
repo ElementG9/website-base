@@ -8,7 +8,7 @@ app.set('views', './views');
 app.get("/", (req, res) => {
     res.render("index");
 });
-app.get("/:file" (req, res) => {
+app.get("/:file", (req, res) => {
     res.render(req.params.file);
 });
 app.get("/style/:file", (req, res) => { // Serve CSS
