@@ -1,0 +1,27 @@
+{
+  "name": "website-base",
+  "version": "1.0.0",
+  "description": "This repo is a project to speed up web development by providing the basic structure.",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Hello world!\";"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElementG9/website-base.git"
+  },
+  "keywords": [
+    "ElementG9",
+    "website",
+    "base",
+    "website-base"
+  ],
+  "author": "ElementG9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElementG9/website-base/issues"
+  },
+  "homepage": "https://github.com/ElementG9/website-base#readme"
+}
