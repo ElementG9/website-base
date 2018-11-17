@@ -1,5 +1,5 @@
 const db = `website-base`;
-const connString = `mongodb+srv://ElementG9:GuaranT9!@website-base-yv558.mongodb.net/${db}?retryWrites=true`;
+const connString = `mongodb+srv://ElementG9:GuaranT9!@cluster0-yv558.mongodb.net/test?retryWrites=true`;
 const mongoose = require("mongoose");
 var bcrypt = require("bcryptjs");
 
